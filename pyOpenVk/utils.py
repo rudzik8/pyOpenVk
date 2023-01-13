@@ -1,4 +1,4 @@
-from openvkapi import *
+from api import *
 
 
 class utils:
