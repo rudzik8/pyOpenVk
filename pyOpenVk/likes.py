@@ -1,6 +1,3 @@
-from api import *
-
-
 class likes:
 
     @staticmethod

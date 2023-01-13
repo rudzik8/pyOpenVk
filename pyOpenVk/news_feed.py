@@ -1,6 +1,3 @@
-from api import *
-
-
 class news_feed:
 
     @staticmethod
