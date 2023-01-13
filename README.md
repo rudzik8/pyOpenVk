@@ -9,11 +9,11 @@ pip install pyOpenVk
 
 ### Quick Example
 ```python
-from openvk import openvkapi
-from openvk import messages
+from pyOpenVk import api
+from pyOpenVk import messages
 
 
-client = openvkapi.auth(login='youre@gmail.com', password='password')
+client = api.auth(login='youre@gmail.com', password='password')
 user_id = 1010
 messages.send(client, user_id, 'Слава Україні!')
 ```
