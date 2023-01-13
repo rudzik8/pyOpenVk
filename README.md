@@ -1,4 +1,7 @@
 # pyOpenVk
+<a href='https://pypi.org/project/pyOpenVk/'>
+    <img src='https://img.shields.io/pypi/v/openvk.svg' alt='Documentation Status' />
+</a>
 
 ### Installing
 
