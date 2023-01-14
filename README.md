@@ -6,7 +6,7 @@
 ### Installing
 
 ```
-pip install pyOpenVk
+pip install pyOpenVk==1.1
 ```
 
 
