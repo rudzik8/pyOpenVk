@@ -18,7 +18,7 @@ from pyOpenVk import messages
 
 client = api.auth(login='youre@gmail.com', password='password')
 user_id = 1010
-messages.send(client, user_id, 'Слава Україні!')
+messages.send(client, user_id, 'Привіт світ!')
 ```
 
 ### Links
