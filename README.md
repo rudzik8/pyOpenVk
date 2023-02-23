@@ -16,7 +16,7 @@ from pyOpenVk import api
 from pyOpenVk import messages
 
 
-client = api.auth(login='youre@gmail.com', password='password')
+client = api.auth(login='youre@gmail.com', password='password', instance='openvk.co') # recommend installing an instance "openvk.co"
 user_id = 1010
 messages.send(client, user_id, 'Привіт світ!')
 ```
